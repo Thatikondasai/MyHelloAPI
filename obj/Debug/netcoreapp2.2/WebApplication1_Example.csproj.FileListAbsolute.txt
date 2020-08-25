@@ -1,0 +1,16 @@
+C:\C#\SaiKumarDotNet\WebApplication1_Example\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\C#\SaiKumarDotNet\WebApplication1_Example\bin\Debug\netcoreapp2.2\WebApplication1_Example.deps.json
+C:\C#\SaiKumarDotNet\WebApplication1_Example\bin\Debug\netcoreapp2.2\WebApplication1_Example.runtimeconfig.json
+C:\C#\SaiKumarDotNet\WebApplication1_Example\bin\Debug\netcoreapp2.2\WebApplication1_Example.runtimeconfig.dev.json
+C:\C#\SaiKumarDotNet\WebApplication1_Example\bin\Debug\netcoreapp2.2\WebApplication1_Example.dll
+C:\C#\SaiKumarDotNet\WebApplication1_Example\bin\Debug\netcoreapp2.2\WebApplication1_Example.pdb
+C:\C#\SaiKumarDotNet\WebApplication1_Example\obj\Debug\netcoreapp2.2\WebApplication1_Example.csprojAssemblyReference.cache
+C:\C#\SaiKumarDotNet\WebApplication1_Example\obj\Debug\netcoreapp2.2\WebApplication1_Example.AssemblyInfoInputs.cache
+C:\C#\SaiKumarDotNet\WebApplication1_Example\obj\Debug\netcoreapp2.2\WebApplication1_Example.AssemblyInfo.cs
+C:\C#\SaiKumarDotNet\WebApplication1_Example\obj\Debug\netcoreapp2.2\WebApplication1_Example.csproj.CoreCompileInputs.cache
+C:\C#\SaiKumarDotNet\WebApplication1_Example\obj\Debug\netcoreapp2.2\WebApplication1_Example.RazorAssemblyInfo.cache
+C:\C#\SaiKumarDotNet\WebApplication1_Example\obj\Debug\netcoreapp2.2\WebApplication1_Example.RazorAssemblyInfo.cs
+C:\C#\SaiKumarDotNet\WebApplication1_Example\obj\Debug\netcoreapp2.2\WebApplication1_Example.RazorTargetAssemblyInfo.cache
+C:\C#\SaiKumarDotNet\WebApplication1_Example\obj\Debug\netcoreapp2.2\WebApplication1_Example.dll
+C:\C#\SaiKumarDotNet\WebApplication1_Example\obj\Debug\netcoreapp2.2\WebApplication1_Example.pdb
+C:\C#\SaiKumarDotNet\WebApplication1_Example\obj\Debug\netcoreapp2.2\WebApplication1_Example.genruntimeconfig.cache
